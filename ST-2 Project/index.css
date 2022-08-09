@@ -1,0 +1,39 @@
+body {
+    background-color: #1b174e;
+  }
+  .h1txt {
+    color: #adb5b9;
+  }
+  #myInput {
+    text-align: center;
+    font-size: small;
+  }
+  #myInput input {
+    width: 70%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border-radius: 4px;
+  }
+  ::placeholder {
+    color: #cf2727;
+  }
+  #myInput button {
+    background-color: #ef7b00;
+    color: #3d1db0;
+    width: 40%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border-radius: 4px;
+  }
+  #createShape {
+    text-align: center;
+    margin-left: 50%;
+    margin-top: 5%;
+    transition-duration: 2s;
+    transition-delay: 1s;
+    
+
+  }
+  
